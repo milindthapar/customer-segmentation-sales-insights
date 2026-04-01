@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Segment,total_orders,total_sales,total_profit,avg_discount_pct
+CS-12505,"Cindy Stewart",Consumer,6,5690.07,-6626.37,20.00
+GT-14635,"Grant Thornton",Corporate,3,9351.20,-4108.66,25.00
+LF-17185,"Luke Foster",Consumer,7,3930.52,-3583.97,31.88
+SR-20425,"Sharelle Roach","Home Office",5,3233.48,-3333.91,36.67
+HG-14965,"Henry Goldwyn",Corporate,11,3184.18,-2798.58,14.67
+NC-18415,"Nathan Cano",Consumer,6,2218.99,-2204.81,26.43
+SB-20290,"Sean Braxton",Corporate,7,8057.89,-2082.75,24.12
+SM-20320,"Sean Miller","Home Office",5,25043.07,-1980.75,24.67
+CP-12340,"Christine Phan",Corporate,8,5888.30,-1850.31,21.33
+BM-11140,"Becky Martin",Consumer,4,11609.91,-1711.44,19.29

@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Segment,total_orders,total_sales,total_profit,avg_discount_pct
+TC-20980,"Tamara Chand",Corporate,5,19017.85,8964.48,12.73
+RB-19360,"Raymond Buch",Consumer,6,15117.35,6976.09,9.44
+SC-20095,"Sanjit Chand",Consumer,9,14142.34,5757.42,6.36
+HL-15040,"Hunter Lopez",Consumer,6,12873.30,5622.43,1.82
+AB-10105,"Adrian Barton",Consumer,9,14355.61,5438.91,25.26
+TA-21385,"Tom Ashbrook","Home Office",4,14595.62,4703.80,8.00
+CM-12385,"Christopher Martinez",Consumer,4,8954.01,3899.91,12.00
+KD-16495,"Keith Dawkins",Corporate,12,8181.24,3038.58,8.75
+AR-10540,"Andy Reiter",Consumer,6,6608.45,2884.61,6.67
+DR-12940,"Daniel Raglin","Home Office",8,8350.87,2869.08,15.38
